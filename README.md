@@ -319,3 +319,5 @@ Performance degradation is tracked when a DR17-trained classifier is evaluated o
 - `supplement/line_list.csv`: Full diagnostic line list (NIST ASD-derived) used when annotating emission/absorption features, with `elem`, `transition`, `lambda_rest_A`, `lower_upper_levels`, `ref`, and `use_flag` columns.
 - `supplement/splits/train_split.csv`, `supplement/splits/validation_split.csv`, `supplement/splits/test_split.csv`: Manifests keyed by `spec_id` with the RNG `seed`, `leakage_group` (e.g., plate-MJD-fibre), class label, S/N statistics, wavelength coverage, and data release for each split.
 - `supplement/ablation_studies.csv`: Ablation study metrics comparing preprocessing and feature variants.
+
+This Readme is written with the help of AI.
