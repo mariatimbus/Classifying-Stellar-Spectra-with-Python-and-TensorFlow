@@ -1,0 +1,18 @@
+elem,transition,lambda_rest_A,lower_upper_levels,ref,use_flag
+H I,Hα,6562.79,n=3→2,NIST ASD,True
+H I,Hβ,4861.35,n=4→2,NIST ASD,True
+H I,Hγ,4340.47,n=5→2,NIST ASD,True
+H I,Hδ,4101.74,n=6→2,NIST ASD,True
+He I,He I 5876,5875.62,2³P→3³D,NIST ASD,True
+He I,He I 4471,4471.50,2³P→4³D,NIST ASD,True
+He I,He I 4026,4026.19,2³P→5³D,NIST ASD,True
+Ca II,Ca II K,3933.66,4s²S₁/₂→4p²P°₃/₂,NIST ASD,True
+Ca II,Ca II H,3968.47,4s²S₁/₂→4p²P°₁/₂,NIST ASD,True
+Fe II,Fe II 5270,5270.40,multiplet 49,NIST ASD,True
+Fe II,Fe II 5169,5169.03,multiplet 42,NIST ASD,True
+Fe II,Fe II 5018,5018.44,multiplet 42,NIST ASD,True
+Mg I,Mg I b1,5175.40,3p³P→4s³S,NIST ASD,True
+Mg I,Mg I b2,5167.32,3p³P→4s³S,NIST ASD,True
+Mg I,Mg I b4,5183.60,3p³P→4s³S,NIST ASD,True
+Na I,Na I D2,5891.58,3s²S₁/₂→3p²P°₃/₂,NIST ASD,True
+Na I,Na I D1,5897.56,3s²S₁/₂→3p²P°₁/₂,NIST ASD,True

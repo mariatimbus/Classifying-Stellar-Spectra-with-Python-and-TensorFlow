@@ -1,0 +1,6 @@
+experiment,description,accuracy,macro_f1,notes
+Baseline,Full preprocessing (QC + RV correction + normalisation),0.913,0.901,Reference configuration used for report
+No_QC,Removed quality-flag filtering,0.874,0.860,Degraded by noisy spectra with low S/N tails
+No_Normalisation,Skipped continuum normalisation,0.842,0.828,Model struggles with blaze and throughput variations
+No_RV_Correction,Omitted heliocentric velocity shift,0.861,0.846,Line misalignment reduces precision for metal-rich stars
+Wavelet_Features,Added wavelet feature channels,0.928,0.917,Best-performing variant with modest complexity increase

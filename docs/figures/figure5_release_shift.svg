@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' width='800' height='400' viewBox='0 0 800 400' role='img' aria-labelledby='title5'>
+<title id='title5'>Figure 5. Performance vs. data-release shift</title>
+<rect x='0' y='0' width='800' height='400' fill='white'/>
+<rect x='60' y='60' width='680' height='280' fill='none' stroke='black' stroke-width='1'/>
+<path d='M 60.00,102.00 L 400.00,158.00 L 740.00,200.00' stroke='#1f77b4' stroke-width='3' fill='none'/>
+<path d='M 60.00,130.00 L 400.00,186.00 L 740.00,228.00' stroke='#ff7f0e' stroke-width='3' fill='none' stroke-dasharray='6 4'/>
+<text x='60.00' y='365' font-size='14' font-family='sans-serif' text-anchor='middle'>DR17</text>
+<text x='400.00' y='365' font-size='14' font-family='sans-serif' text-anchor='middle'>DR18</text>
+<text x='740.00' y='365' font-size='14' font-family='sans-serif' text-anchor='middle'>DR19</text>
+<rect x='590' y='78' width='28' height='12' fill='#1f77b4'/>
+<text x='630' y='88' font-size='14' font-family='sans-serif'>Accuracy</text>
+<rect x='590' y='110' width='28' height='12' fill='#ff7f0e' stroke-dasharray='6 4'/>
+<text x='630' y='120' font-size='14' font-family='sans-serif'>Macro F1</text>
+<text x='400.00' y='40' font-size='18' font-family='sans-serif' text-anchor='middle'>Figure 5. Performance vs. data-release shift</text>
+<text x='400.00' y='390' font-size='14' font-family='sans-serif' text-anchor='middle'>Test release (trained on DR17)</text>
+<text x='20' y='200.00' font-size='14' font-family='sans-serif' text-anchor='middle' transform='rotate(-90 20 200.00)'>Score</text>
+</svg>

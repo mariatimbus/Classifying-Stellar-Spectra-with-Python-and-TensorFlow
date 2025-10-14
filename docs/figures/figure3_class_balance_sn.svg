@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='420' viewBox='0 0 1000 420' role='img' aria-labelledby='title3'>
+<title id='title3'>Figure 3. Dataset balance and S/N characteristics</title>
+<rect x='0' y='0' width='1000' height='420' fill='white' stroke='none'/>
+<rect x='60' y='60' width='410.0' height='300' fill='none' stroke='black' stroke-width='1'/>
+<rect x='65.86' y='282.86' width='46.86' height='77.14' fill='#9467bd' opacity='0.85' />
+<text x='89.29' y='378' font-size='12' text-anchor='middle' font-family='sans-serif'>O</text>
+<rect x='124.43' y='229.82' width='46.86' height='130.18' fill='#9467bd' opacity='0.85' />
+<text x='147.86' y='378' font-size='12' text-anchor='middle' font-family='sans-serif'>B</text>
+<rect x='183.00' y='186.43' width='46.86' height='173.57' fill='#9467bd' opacity='0.85' />
+<text x='206.43' y='378' font-size='12' text-anchor='middle' font-family='sans-serif'>A</text>
+<rect x='241.57' y='133.39' width='46.86' height='226.61' fill='#9467bd' opacity='0.85' />
+<text x='265.00' y='378' font-size='12' text-anchor='middle' font-family='sans-serif'>F</text>
+<rect x='300.14' y='90.00' width='46.86' height='270.00' fill='#9467bd' opacity='0.85' />
+<text x='323.57' y='378' font-size='12' text-anchor='middle' font-family='sans-serif'>G</text>
+<rect x='358.71' y='123.75' width='46.86' height='236.25' fill='#9467bd' opacity='0.85' />
+<text x='382.14' y='378' font-size='12' text-anchor='middle' font-family='sans-serif'>K</text>
+<rect x='417.29' y='152.68' width='46.86' height='207.32' fill='#9467bd' opacity='0.85' />
+<text x='440.71' y='378' font-size='12' text-anchor='middle' font-family='sans-serif'>M</text>
+<text x='265.00' y='40' font-size='16' font-family='sans-serif' text-anchor='middle'>Class balance across 5k spectra</text>
+<rect x='530.0' y='60' width='410.0' height='300' fill='none' stroke='black' stroke-width='1'/>
+<rect x='530.00' y='343.64' width='15.58' height='16.36' fill='#2ca02c' opacity='0.85' />
+<rect x='546.40' y='338.73' width='15.58' height='21.27' fill='#2ca02c' opacity='0.85' />
+<rect x='562.80' y='331.64' width='15.58' height='28.36' fill='#2ca02c' opacity='0.85' />
+<rect x='579.20' y='339.27' width='15.58' height='20.73' fill='#2ca02c' opacity='0.85' />
+<rect x='595.60' y='332.73' width='15.58' height='27.27' fill='#2ca02c' opacity='0.85' />
+<rect x='612.00' y='303.27' width='15.58' height='56.73' fill='#2ca02c' opacity='0.85' />
+<rect x='628.40' y='308.73' width='15.58' height='51.27' fill='#2ca02c' opacity='0.85' />
+<rect x='644.80' y='296.73' width='15.58' height='63.27' fill='#2ca02c' opacity='0.85' />
+<rect x='661.20' y='310.36' width='15.58' height='49.64' fill='#2ca02c' opacity='0.85' />
+<rect x='677.60' y='276.55' width='15.58' height='83.45' fill='#2ca02c' opacity='0.85' />
+<rect x='694.00' y='259.64' width='15.58' height='100.36' fill='#2ca02c' opacity='0.85' />
+<rect x='710.40' y='226.91' width='15.58' height='133.09' fill='#2ca02c' opacity='0.85' />
+<rect x='726.80' y='223.09' width='15.58' height='136.91' fill='#2ca02c' opacity='0.85' />
+<rect x='743.20' y='208.91' width='15.58' height='151.09' fill='#2ca02c' opacity='0.85' />
+<rect x='759.60' y='162.00' width='15.58' height='198.00' fill='#2ca02c' opacity='0.85' />
+<rect x='776.00' y='175.64' width='15.58' height='184.36' fill='#2ca02c' opacity='0.85' />
+<rect x='792.40' y='108.55' width='15.58' height='251.45' fill='#2ca02c' opacity='0.85' />
+<rect x='808.80' y='114.55' width='15.58' height='245.45' fill='#2ca02c' opacity='0.85' />
+<rect x='825.20' y='90.00' width='15.58' height='270.00' fill='#2ca02c' opacity='0.85' />
+<rect x='841.60' y='125.45' width='15.58' height='234.55' fill='#2ca02c' opacity='0.85' />
+<rect x='858.00' y='157.64' width='15.58' height='202.36' fill='#2ca02c' opacity='0.85' />
+<rect x='874.40' y='184.36' width='15.58' height='175.64' fill='#2ca02c' opacity='0.85' />
+<rect x='890.80' y='217.09' width='15.58' height='142.91' fill='#2ca02c' opacity='0.85' />
+<rect x='907.20' y='266.18' width='15.58' height='93.82' fill='#2ca02c' opacity='0.85' />
+<rect x='923.60' y='309.27' width='15.58' height='50.73' fill='#2ca02c' opacity='0.85' />
+<text x='735.00' y='40' font-size='16' font-family='sans-serif' text-anchor='middle'>Signal-to-noise distribution</text>
+<text x='735.00' y='390.00' font-size='14' font-family='sans-serif' text-anchor='middle'>Median S/N per pixel</text>
+<text x='500.00' y='30.00' font-size='18' font-family='sans-serif' text-anchor='middle'>Figure 3. Dataset balance and S/N characteristics</text>
+</svg>

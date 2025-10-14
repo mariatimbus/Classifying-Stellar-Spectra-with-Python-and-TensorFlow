@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' width='1100' height='700' viewBox='0 0 1100 700' role='img' aria-labelledby='title4'>
+<title id='title4'>Figure 4. Model performance diagnostics</title>
+<rect x='0' y='0' width='1100' height='700' fill='white'/>
+<text x='550.00' y='30.00' font-size='20' font-family='sans-serif' text-anchor='middle'>Figure 4. Model performance diagnostics</text>
+<g transform='translate(60,60)'>
+<rect x='0' y='0' width='460.0' height='260.0' fill='none' stroke='black' stroke-width='1'/>
+<rect x='0.00' y='0.00' width='115.00' height='65.00' fill='#c6dbef' stroke='white' stroke-width='1'/>
+<text x='57.50' y='37.50' font-size='16' font-family='sans-serif' text-anchor='middle'>32</text>
+<rect x='115.00' y='0.00' width='115.00' height='65.00' fill='#fdd0a2' stroke='white' stroke-width='1'/>
+<text x='172.50' y='37.50' font-size='16' font-family='sans-serif' text-anchor='middle'>5</text>
+<rect x='230.00' y='0.00' width='115.00' height='65.00' fill='#fdd0a2' stroke='white' stroke-width='1'/>
+<text x='287.50' y='37.50' font-size='16' font-family='sans-serif' text-anchor='middle'>2</text>
+<rect x='345.00' y='0.00' width='115.00' height='65.00' fill='#fdd0a2' stroke='white' stroke-width='1'/>
+<text x='402.50' y='37.50' font-size='16' font-family='sans-serif' text-anchor='middle'>1</text>
+<rect x='0.00' y='65.00' width='115.00' height='65.00' fill='#fdd0a2' stroke='white' stroke-width='1'/>
+<text x='57.50' y='102.50' font-size='16' font-family='sans-serif' text-anchor='middle'>4</text>
+<rect x='115.00' y='65.00' width='115.00' height='65.00' fill='#c6dbef' stroke='white' stroke-width='1'/>
+<text x='172.50' y='102.50' font-size='16' font-family='sans-serif' text-anchor='middle'>29</text>
+<rect x='230.00' y='65.00' width='115.00' height='65.00' fill='#fdd0a2' stroke='white' stroke-width='1'/>
+<text x='287.50' y='102.50' font-size='16' font-family='sans-serif' text-anchor='middle'>5</text>
+<rect x='345.00' y='65.00' width='115.00' height='65.00' fill='#fdd0a2' stroke='white' stroke-width='1'/>
+<text x='402.50' y='102.50' font-size='16' font-family='sans-serif' text-anchor='middle'>2</text>
+<rect x='0.00' y='130.00' width='115.00' height='65.00' fill='#fdd0a2' stroke='white' stroke-width='1'/>
+<text x='57.50' y='167.50' font-size='16' font-family='sans-serif' text-anchor='middle'>3</text>
+<rect x='115.00' y='130.00' width='115.00' height='65.00' fill='#fdd0a2' stroke='white' stroke-width='1'/>
+<text x='172.50' y='167.50' font-size='16' font-family='sans-serif' text-anchor='middle'>6</text>
+<rect x='230.00' y='130.00' width='115.00' height='65.00' fill='#c6dbef' stroke='white' stroke-width='1'/>
+<text x='287.50' y='167.50' font-size='16' font-family='sans-serif' text-anchor='middle'>27</text>
+<rect x='345.00' y='130.00' width='115.00' height='65.00' fill='#fdd0a2' stroke='white' stroke-width='1'/>
+<text x='402.50' y='167.50' font-size='16' font-family='sans-serif' text-anchor='middle'>4</text>
+<rect x='0.00' y='195.00' width='115.00' height='65.00' fill='#fdd0a2' stroke='white' stroke-width='1'/>
+<text x='57.50' y='232.50' font-size='16' font-family='sans-serif' text-anchor='middle'>2</text>
+<rect x='115.00' y='195.00' width='115.00' height='65.00' fill='#fdd0a2' stroke='white' stroke-width='1'/>
+<text x='172.50' y='232.50' font-size='16' font-family='sans-serif' text-anchor='middle'>4</text>
+<rect x='230.00' y='195.00' width='115.00' height='65.00' fill='#fdd0a2' stroke='white' stroke-width='1'/>
+<text x='287.50' y='232.50' font-size='16' font-family='sans-serif' text-anchor='middle'>6</text>
+<rect x='345.00' y='195.00' width='115.00' height='65.00' fill='#c6dbef' stroke='white' stroke-width='1'/>
+<text x='402.50' y='232.50' font-size='16' font-family='sans-serif' text-anchor='middle'>28</text>
+<text x='57.50' y='285.00' font-size='14' font-family='sans-serif' text-anchor='middle'>O</text>
+<text x='-15' y='37.50' font-size='14' font-family='sans-serif' text-anchor='end'>O</text>
+<text x='172.50' y='285.00' font-size='14' font-family='sans-serif' text-anchor='middle'>B</text>
+<text x='-15' y='102.50' font-size='14' font-family='sans-serif' text-anchor='end'>B</text>
+<text x='287.50' y='285.00' font-size='14' font-family='sans-serif' text-anchor='middle'>A</text>
+<text x='-15' y='167.50' font-size='14' font-family='sans-serif' text-anchor='end'>A</text>
+<text x='402.50' y='285.00' font-size='14' font-family='sans-serif' text-anchor='middle'>F</text>
+<text x='-15' y='232.50' font-size='14' font-family='sans-serif' text-anchor='end'>F</text>
+<text x='0' y='-20' font-size='16' font-family='sans-serif'>Confusion matrix</text>
+</g>
+<g transform='translate(580.0,60)'>
+<rect x='0' y='0' width='460.0' height='260.0' fill='none' stroke='black' stroke-width='1'/>
+<path d='M 0.00,260.00 L 46.00,104.00 L 92.00,65.00 L 161.00,39.00 L 460.00,0.00' stroke='#d62728' stroke-width='2' fill='none'/>
+<line x1='0' y1='260.0' x2='460.0' y2='0' stroke='#999' stroke-dasharray='4 4' />
+<text x='0' y='-20' font-size='16' font-family='sans-serif'>ROC curve (AUC≈0.90)</text>
+</g>
+<g transform='translate(60,380.0)'>
+<rect x='0' y='0' width='460.0' height='260.0' fill='none' stroke='black' stroke-width='1'/>
+<path d='M 0.00,0.00 L 92.00,31.20 L 184.00,46.80 L 276.00,57.20 L 368.00,67.60 L 460.00,78.00' stroke='#1f77b4' stroke-width='2' fill='none'/>
+<text x='0' y='-20' font-size='16' font-family='sans-serif'>Precision-Recall (AP≈0.85)</text>
+</g>
+<g transform='translate(580.0,380.0)'>
+<rect x='0' y='0' width='460.0' height='260.0' fill='none' stroke='black' stroke-width='1'/>
+<circle cx='121.05' cy='189.09' r='10.00' fill='#2ca02c' opacity='0.8' />
+<circle cx='169.47' cy='141.82' r='9.60' fill='#2ca02c' opacity='0.8' />
+<circle cx='217.89' cy='94.55' r='8.60' fill='#2ca02c' opacity='0.8' />
+<circle cx='314.74' cy='118.18' r='9.00' fill='#2ca02c' opacity='0.8' />
+<circle cx='363.16' cy='47.27' r='8.00' fill='#2ca02c' opacity='0.8' />
+<circle cx='411.58' cy='0.00' r='7.00' fill='#ff9896' opacity='0.8' />
+<circle cx='72.63' cy='236.36' r='8.20' fill='#2ca02c' opacity='0.8' />
+<circle cx='266.32' cy='189.09' r='9.40' fill='#2ca02c' opacity='0.8' />
+<circle cx='460.00' cy='70.91' r='6.60' fill='#ff9896' opacity='0.8' />
+<circle cx='0.00' cy='260.00' r='7.60' fill='#ff9896' opacity='0.8' />
+<circle cx='338.95' cy='23.64' r='8.40' fill='#2ca02c' opacity='0.8' />
+<text x='0' y='-20' font-size='16' font-family='sans-serif'>Accuracy vs. S/N and coverage</text>
+<text x='230.00' y='290.00' font-size='14' font-family='sans-serif' text-anchor='middle'>Median S/N</text>
+<text x='-40' y='130.00' font-size='14' font-family='sans-serif' text-anchor='middle' transform='rotate(-90 -40 130.00)'>Wavelength coverage (Å)</text>
+</g>
+</svg>
