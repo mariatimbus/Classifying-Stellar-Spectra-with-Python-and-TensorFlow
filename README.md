@@ -67,8 +67,6 @@ This project targets Sloan Digital Sky Survey data from the SDSS-IV DR17 release
 ### Ground-truth labels
 
 For supervised training you can ingest authoritative stellar labels from SDSS catalogues:
-
-- [MaStar stellar parameter catalogue](https://www.sdss4.org/mastar/) for optical classifications and luminosity classes.
 - [APOGEE DR17](https://www.sdss4.org/dr17/irspec/) for high-resolution infrared parameters (`T_eff`, `log g`, `[Fe/H]`).
 - SDSS-V targeting and metadata releases (DR18/DR19) for updated spectral typing.
 
