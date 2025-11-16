@@ -319,3 +319,4 @@ Performance degradation is tracked when a DR17-trained classifier is evaluated o
 - `supplement/ablation_studies.csv`: Ablation study metrics comparing preprocessing and feature variants.
 
 This Readme is written with the help of AI.
+[Timbus_Stellar_Spectra_CNN_Closed_Model_Study .pdf](https://github.com/user-attachments/files/23569113/Timbus_Stellar_Spectra_CNN_Closed_Model_Study.pdf)
